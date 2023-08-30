@@ -1,7 +1,3 @@
-pip install streamlit
-pip install streamlit-lottie
-pip install requests
-
 import streamlit as st
 import requests
 from streamlit_lottie import st_lottie
